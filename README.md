@@ -3,7 +3,7 @@ By default, Minecraft only supports 2 octaves of piano music, and the duration o
 
 ## Installation
 ### For players
-Navigate to the latest release, download the zip file, and extract it in your Minecraft resource folder.
+Go to `https://github.com/KerbalBoy/extended-minecraft-piano/releases/latest/download/ExtendedPiano.zip`, and extract the zip file in your Minecraft resource folder.
 ### For servers
 Add the line `resource-pack=https://github.com/KerbalBoy/extended-minecraft-piano/releases/latest/download/ExtendedPiano.zip` to automatically download the resouce pack for everyone who joins your server.
 
